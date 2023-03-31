@@ -1,0 +1,25 @@
+{
+  "animalData": [
+    {
+      "id": 3,
+      "name": "Elephant",
+      "imageURL": "https://images.unsplash.com/photo-1581852017103-68ac65514cf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZWxlcGhhbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "description": "Elephants are the largest land animals and have distinctive long trunks, ivory tusks, and large ears.",
+      "donations": 760
+    },
+    {
+      "id": 4,
+      "name": "Lion",
+      "imageURL": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "The lion is a species of large cat that lives in Africa and is known for its distinctive mane.",
+      "donations": 900
+    },
+    {
+      "id": 5,
+      "name": "Lion",
+      "imageURL": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "The lion is a species of large cat that lives in Africa and is known for its distinctive mane.",
+      "donations": 900
+    }
+  ]
+}
